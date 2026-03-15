@@ -153,7 +153,9 @@ with open(OUTPUT, 'wb') as f:
 
 print(f"Written {len(frames) // (W*H)} frames to {OUTPUT}")
 ```
+### Web UI Preview
 
+<img src="Browser UI.jpeg" alt="Project Logo" width="200"/>
 ---
 
 ## ⚙️ Configuration
