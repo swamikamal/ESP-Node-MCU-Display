@@ -2,6 +2,7 @@
 
 A lightweight WiFi-controlled display controller for the **ESP8266 NodeMCU** with an **ST7735 1.8" TFT** (160×128 landscape). Upload images, animations, or custom text directly from your browser — no app, no cables, no fuss.
 
+<img src="Real World.jpeg" alt="Project Logo" width="500"/>
 ---
 
 ## ✨ Features
